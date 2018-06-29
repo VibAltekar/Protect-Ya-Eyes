@@ -27,3 +27,7 @@ $ python 202020.py&
 $ sudo kill -9 53400
 ```
 
+
+#TODO
+
+Going to make this into either a status bar plugin. 
