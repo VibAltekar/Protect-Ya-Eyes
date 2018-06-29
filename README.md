@@ -2,12 +2,12 @@
 Save your eyes. Every 20 minutes look at something 20 feet away for 20 minutes. Don't forget with this script!
 
 # Requirements
-
+```
 Python3+
 	Schedule: https://github.com/dbader/schedule
 Ruby/Gem
 	terminal-notifier: gem install terminal-notifier
-
+```
 ## Installation
 
 ```sh
