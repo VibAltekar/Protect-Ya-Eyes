@@ -14,7 +14,7 @@ Ruby/Gem
 # mac OSX comes with gem installed 
 $ gem install terminal-notifier
 
-# As an rbenv plugin
+# Clone the repo
 $ git clone https://github.com/VibAltekar/Protect-Ya-Eyes.git
 $ cd Protect-Ya-Eyes
 
